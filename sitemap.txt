@@ -1,7 +1,7 @@
+http://example.com/Photos/index.html
 http://example.com/Games/index.html
 http://example.com/Games/%E5%BA%95%E7%89%B9%E5%BE%8B-%E5%8F%98%E4%BA%BA.html
 http://example.com/Movies/index.html
-http://example.com/Pictures/index.html
 http://example.com/2022/10/26/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E5%80%9F%E5%8A%A9nodejs-Git-Hexo-%E7%AD%89%E6%8A%80%E6%9C%AF/
 http://example.com/2022/11/07/Mysql%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/
 http://example.com/2022/11/21/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0-%E4%B8%80/
@@ -15,13 +15,13 @@ http://example.com/2022/10/28/Git%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/
 http://example.com/2022/10/26/WELCOME/
 http://example.com/About%20the%20author/index.html
 http://example.com/
-http://example.com/tags/Git/
 http://example.com/tags/Mysql/
+http://example.com/tags/Git/
 http://example.com/tags/%E5%85%B6%E4%BB%96/
 http://example.com/tags/HTML/
 http://example.com/tags/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/
-http://example.com/categories/Git/
 http://example.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/
+http://example.com/categories/Git/
 http://example.com/categories/%E5%85%B6%E4%BB%96/
 http://example.com/categories/%E5%89%8D%E7%AB%AF/
 http://example.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/
